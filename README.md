@@ -80,6 +80,8 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
+| ❇️ | [digitalminds.io](https://www.digitalminds.io/careers/) | Agency |💻| 
+
 
 
 ### 👩‍🏫 Teaching
