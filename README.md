@@ -61,6 +61,9 @@ A list of remote job boards.
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
+| ❇️ | [ai-jobs.net](https://ai-jobs.net/) | AI/Big Data jobs (select region/filter) |💻|
+| ❇️ | [infosec-jobs.com](https://infosec-jobs.com/) | Cyber Security jobs (select region/filter) |💻|
+| ❇️ | [PRODUCTHIRE.NET](https://producthire.net/) | Product Management, UX, Growth Hacking jobs (select region/filter) |💻🎨|
 
 ### ✈️ Remote Companies
 
