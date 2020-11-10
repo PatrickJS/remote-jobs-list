@@ -24,6 +24,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 | ❇️ | [Who Is Hiring](https://whoishiring.io) | Jobs board aggregator. |🌟|
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [Remote Zoo](https://www.remotezoo.com/) | Jobs board aggregator. |🌟|
+| ❇️ | [Career Vault](https://www.careervault.io/) | Jobs board aggregator. |🌟|
 
 ### 📌 Job boards
 
