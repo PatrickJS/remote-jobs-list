@@ -61,6 +61,7 @@ A list of remote job boards.
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
+| ❇️ | [Four Day Week](https://www.fourdayweek.io) | Software developer jobs with a better work / life balance |💻|
 
 ### ✈️ Remote Companies
 
