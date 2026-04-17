@@ -61,6 +61,7 @@ A list of remote job boards.
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. |📱🌟|
 | ❇️ | [Supporting Roles](https://supportingroles.io/) | Support remote jobs board. |📱|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board. |🎨|
+| ❇️ | [AI Dev Jobs](https://aidevboard.com/) | AI/ML engineering remote jobs — 8,400+ listings from 580 ATS sources. |💻🤖| [JSON](https://aidevboard.com/api/v1/jobs) · [MCP](https://aidevboard.com/mcp)
 
 ### ✈️ Remote Companies
 
