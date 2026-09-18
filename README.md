@@ -43,6 +43,7 @@ A list of remote job boards.
 | ❇️ | [WFH](https://www.wfh.io/) | A remote jobs board. |🌟| [JSON](https://github.com/wfhio/api)|
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. |🌟|
 | ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. |🌟|
+| ❇️ | [Remote1stJobs](https://www.remote1stjobs.com/) | UK/Europe/EMEA remote-first jobs board. |🌟| [RSS](https://www.remote1stjobs.com/jobs.rss) |
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. |🌟|
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | A remote jobs board. |🌟|
